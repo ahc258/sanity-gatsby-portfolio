@@ -37,7 +37,6 @@ export default createSchema({
     category,
     person,
     sampleProject,
-    siteSettings,
-    jobListings
+    siteSettings 
   ])
 })
